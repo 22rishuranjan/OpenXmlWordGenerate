@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+WXrsvKrrYsurMIPFpwa9MTZoapm8+UmzBVTw7tIlt8NGryQNZdbTy1uyPzVEM8gFlbGUMdWK6B92uOqQ4BBA==",
+  "success": true,
+  "projectFilePath": "/Volumes/badmonster disk/Development/MyGit/dotnet/OpenXmlWordGenerate/AddingStyleToWord/SampleWordWithStyles/SampleWordWithStyles/SampleWordWithStyles.csproj",
+  "expectedPackageFiles": [
+    "/Users/badmonster/.nuget/packages/documentformat.openxml/2.20.0/documentformat.openxml.2.20.0.nupkg.sha512",
+    "/Users/badmonster/.nuget/packages/system.io.packaging/4.7.0/system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

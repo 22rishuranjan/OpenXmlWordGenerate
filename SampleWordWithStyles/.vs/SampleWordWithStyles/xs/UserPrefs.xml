@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8B63BB37-1644-4B4C-B23A-A3473EF96CAF}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SampleWordWithStyles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleWordWithStyles/Program.cs">
+    <Files>
+      <File FileName="SampleWordWithStyles/Program.cs" Line="56" Column="76" />
+      <File FileName="SampleWordWithStyles/Helper/WordHelper.cs" Line="37" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleWordWithStyles" expanded="True">
+            <Node name="SampleWordWithStyles">
+              <Node name="Helper" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
